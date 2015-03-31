@@ -16,7 +16,7 @@ int main(void)
 		digitalWrite(BeepPin, LOW);  //beep on
 		delay(100);                  //delay
 		digitalWrite(BeepPin, HIGH); //beep off
-		delay(100);                  //delay
+		delay(150);                  //delay
 	}
 
 	return 0;
